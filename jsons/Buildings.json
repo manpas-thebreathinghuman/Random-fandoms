@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Sholat Center Indonesia",
+		"replaces": "Temple",
+		"uniqueTo": "Trenmatika",
+		"faith": 3,
+		"culture": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured","[+10]% Production when constructing [Military] units [in this city]"]
+	},
+	{
+		"name": "Shoebox",
+		"replaces": "Barracks",
+		"uniqueTo": "Gigi Murin Ch.",
+		"hurryCostModifier": 25,
+		"cityStrength": 3,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [21] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "TWICE Square",
+		"replaces": "National Epic",
+		"uniqueTo": "TWICE",
+		"cost": 125,
+		"cityStrength": 9,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[+9]% Great Person generation [in all cities]"],
+		"requiredTech": "Drama and Poetry"
+	}
+]

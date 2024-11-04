@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Trenmatika",
+		"leaderName": "Ustadz Abu Sangkan",
+		"adjective": ["Trenmatikans"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Aku lihat ibadahmu seperti orang munafik, bersiaplah untuk takut pada tuhan yang satu!",
+		"attacked": "Pikirkanlah matang-matang sebelum kau berbuat...",
+		"defeated": "Terkutuklah kau sampai keruntuhan peradabanmu!!",
+		"introduction": "Ah, saudara baru! Hiduplah di sekitarku dengan damai sebagai rahmat dari tuhan. Untukmu dan untukku",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "Semoga perdamaian ini bertahan lama",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [44,58,140],
+		"innerColor": [241,110,38],
+		"uniqueName": "Khusyuk",
+		"uniques": ["[+2 Science, +2 Faith] per [5] population [in all cities]"],
+		"cities": ["Rumah uts. Abu","Kamar ustadz","Aula","Masjid","Asrama laki-laki","Asrama perempuan","Ruang kepala sekolah","Lapangan depan","lapangan belakang","Perpustakaan"]
+	},
+	{
+		"name": "Gigi Murin Ch.",
+		"leaderName": "Gigi Murin",
+		"adjective": ["Grems"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "Huzzah!! For the queen!",
+		"attacked": "(Insert reference here idk yet lol)",
+		"defeated": "Da fister has become da fistee...",
+		"introduction": "Gi Murin!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "STOOP FIGHTIING!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [253,180,64],
+		"innerColor": [101,78,87],
+		"uniqueName": "The Fister",
+		"uniqueText": "All Sword, Mounted, and Gunpowder units gets +33% strength when attacking",
+		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[Gunpowder] units gain the [The fister] promotion"],
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser"]
+	},
+	{
+		"name": "TWICE",
+		"leaderName": "Park Jihyo",
+		"adjective": ["Once"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "Like a bulldozer! Like a tank, like a soldier! Kowasu yo kimi no kokoro no gaado",
+		"attacked": "I'm like TT, just like TT. ireon nae mam moreugo neomuhae! neomuhae!",
+		"defeated": "",
+		"introduction": "One in a million, TWICE imnida",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [240,97,161],
+		"innerColor": [255,255,255],
+		"uniqueName": "Urin baro TWICE~",
+		"uniques": ["Free [Great Artist] appears <upon entering the [Renaissance era]>","Free [Great Artist] appears <upon entering the [Modern era]>","Free [Great Artist] appears <upon entering the [Information era]>","[Great Artist] is earned [50]% faster"],
+		"cities": ["Like OOH-AHH","Cheer Up","TT","Knock Knock","Signal","One More Time","Likey","Heart Shaker","Merry & Happy","Candy Pop","Brand New Girl","What Is Love?","Wake Me Up","Dance The Night Away","BDZ","Yes Or Yes","The Best Thing I Ever Did","Fancy","Happy Happy","Breakthrough","Feel Special","Fake & True","More & More","Fanfare","I Can't Stop Me","Better","Kura Kura","Alchohol-Free","Perfect World","The Feels","Scientist","Doughnut","Pop!","Celebrate","Talk That Talk","Moonlight Sunrise","Set Me Free","Hare Hare","Marshmallow","Do Not Touch","Killin' Me Good","I Got You","One Spark","ABCD","Dive","Run Away","Identity"]
+	}
+]

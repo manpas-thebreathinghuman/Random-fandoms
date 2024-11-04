@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Gigi Standee",
+		"uniqueTo": "Gigi Murin Ch.",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Snow","Desert"],
+        "gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Civil Service",
+        "uniques": ["Adjacent enemy units ending their turn take [8] damage"],
+        "shortcutKey": "G"
+    }
+]

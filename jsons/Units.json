@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Jiujitsu students",
+		"unitType": "Sword",
+		"uniqueTo": "Trenmatika",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["No damage penalty for wounded units"],
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Lovelys",
+		"unitType":"Scout",
+		"uniqueTo": "TWICE",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit","[-100]% Strength for enemy [Archery] units in adjacent [All] tiles <when attacking>","[-100]% Strength for enemy [Ranged Gunpowder] units in adjacent [All] tiles <when attacking>"],
+		"attackSound": "nonmetalhit"
+	}
+]
