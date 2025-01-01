@@ -23,7 +23,60 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit","[-100]% Strength for enemy [Archery] units in adjacent [All] tiles <when attacking>","[-100]% Strength for enemy [Ranged Gunpowder] units in adjacent [All] tiles <when attacking>"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit","[-75]% Strength for enemy [Archery] units in adjacent [All] tiles","[-75]% Strength for enemy [Ranged Gunpowder] units in adjacent [All] tiles"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Ultimate students (combat)",
+		"uniqueTo": "Hope's Peak Academy",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["[+33]% to Flank Attack bonuses"],
+		"promotions": ["Great Generals I"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Pebbles",
+		"uniqueTo": "Koseki Bijou Ch.",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","[+50]% Strength <when defending>"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Drones",
+		"uniqueTo": "Universal Paperclips",
+		"replaces": "Helicopter Gunship",
+		"unitType": "Helicopter",
+		"movement": 6,
+		"strength": 60,
+		"cost": 320,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Golden Bee",
+		"uniqueTo": "Shattered pixel dungeon",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 16,
+		"cost": 83,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Radar",
+		"uniques": ["May Paradrop up to [4] tiles from inside friendly territory"]
 	}
 ]

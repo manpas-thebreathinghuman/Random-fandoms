@@ -2,5 +2,9 @@
     {
         "name": "The fister",
         "uniques": ["[+33]% Strength <when attacking>"]
+    },
+    {
+        "name": "Hope",
+        "uniques": ["[10] HP when healing","[+20]% Strength<for [Wounded] units>"]
     }
 ]

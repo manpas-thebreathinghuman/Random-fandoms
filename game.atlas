@@ -74,3 +74,87 @@ NationIcons/TWICE
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Hope's Peak Academy
+  rotate: false
+  xy: 304, 107
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Koseki Bijou Ch.
+  rotate: false
+  xy: 404, 101
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Universal Paperclips
+  rotate: false
+  xy: 488, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Shattered pixel dungeon
+  rotate: false
+  xy: 3, 197
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ultimate students (culture, science, and engineering)
+  rotate: false
+  xy: 105, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Biboo tax
+  rotate: false
+  xy: 201, 209
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Paperclip & Drone Factory
+  rotate: false
+  xy: 299, 209
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shopkeeper's Shop
+  rotate: false
+  xy: 403, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ultimate students (combat)
+  rotate: false
+  xy: 509, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pebbles
+  rotate: false
+  xy: 0, 249
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Drones
+  rotate: false
+  xy: 104, 305
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Golden Bee
+  rotate: false
+  xy: 204, 301
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

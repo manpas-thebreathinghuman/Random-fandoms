@@ -31,5 +31,51 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[+9]% Great Person generation [in all cities]"],
 		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Ultimate students (culture, science, and engineering)",
+		"uniqueTo": "Hope's Peak Academy",
+		"cost": 300,
+		"specialistSlots": {"Scientist": 1, "Artist": 1,"Engineer": 1},
+		"maintenance": 1,
+		"requiredTech": "Scientific Theory"
+	},
+	{
+		"name": "The Biboo tax",
+		"uniqueTo": "Koseki Bijou Ch.",
+		"replaces": "Bank",
+		"gold": 2,
+		"culture": 3,
+		"science": -1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Paperclip & Drone Factory",
+		"uniqueTo": "Universal Paperclips",
+		"replaces": "Factory",
+		"cost": 360,
+		"production": 4,
+		"percentStatBonus": {"production": 10, "gold": 10, "happiness": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[+10]% Production when constructing [spaceship part] buildings [in this city]","[+10]% Production when constructing [Helicopter] units [in this city]"],
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Shopkeeper's Shop",
+		"uniqueTo": "Shattered pixel dungeon",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 10, "food": 5, "science": 5},
+		"requiredTech": "Currency"
 	}
 ]

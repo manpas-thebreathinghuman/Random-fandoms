@@ -4,6 +4,7 @@
 		"leaderName": "Ustadz Abu Sangkan",
 		"adjective": ["Trenmatikans"],
 		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Islam",
 		
 		"declaringWar": "Aku lihat ibadahmu seperti orang munafik, bersiaplah untuk takut pada tuhan yang satu!",
 		"attacked": "Pikirkanlah matang-matang sebelum kau berbuat...",
@@ -40,7 +41,7 @@
 		"defeated": "Da fister has become da fistee...",
 		"introduction": "Gi Murin!",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "League of legends",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -58,7 +59,7 @@
 		"uniqueName": "The Fister",
 		"uniqueText": "All Sword, Mounted, and Gunpowder units gets +33% strength when attacking",
 		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[Gunpowder] units gain the [The fister] promotion"],
-		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser"]
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser", "League of legends"]
 	},
 	{
 		"name": "TWICE",
@@ -67,8 +68,8 @@
 		"preferredVictoryType": "Cultural",
 		
 		"declaringWar": "Like a bulldozer! Like a tank, like a soldier! Kowasu yo kimi no kokoro no gaado",
-		"attacked": "I'm like TT, just like TT. ireon nae mam moreugo neomuhae! neomuhae!",
-		"defeated": "",
+		"attacked": "",
+		"defeated": "I'm like TT, just like TT. ireon nae mam moreugo neomuhae! neomuhae!",
 		"introduction": "One in a million, TWICE imnida",
 		
 		"neutralHello": "How are you doing?",
@@ -89,5 +90,126 @@
 		"uniqueName": "Urin baro TWICE~",
 		"uniques": ["Free [Great Artist] appears <upon entering the [Renaissance era]>","Free [Great Artist] appears <upon entering the [Modern era]>","Free [Great Artist] appears <upon entering the [Information era]>","[Great Artist] is earned [50]% faster"],
 		"cities": ["Like OOH-AHH","Cheer Up","TT","Knock Knock","Signal","One More Time","Likey","Heart Shaker","Merry & Happy","Candy Pop","Brand New Girl","What Is Love?","Wake Me Up","Dance The Night Away","BDZ","Yes Or Yes","The Best Thing I Ever Did","Fancy","Happy Happy","Breakthrough","Feel Special","Fake & True","More & More","Fanfare","I Can't Stop Me","Better","Kura Kura","Alchohol-Free","Perfect World","The Feels","Scientist","Doughnut","Pop!","Celebrate","Talk That Talk","Moonlight Sunrise","Set Me Free","Hare Hare","Marshmallow","Do Not Touch","Killin' Me Good","I Got You","One Spark","ABCD","Dive","Run Away","Identity"]
+	},
+	{
+		"name": "Hope's Peak Academy",
+		"leaderName": "Jin Kirigiri",
+		"adjective": ["Ultimate students"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Super high school level students",
+		"uniques": ["[+25]% Great Person generation [in all cities]","All newly-trained [All] units [in capital] receive the [Hope] promotion"],
+		"cities": ["Hope's Peak High School"]
+	},
+	{
+		"name": "Koseki Bijou Ch.",
+		"leaderName": "Koseki Bijou",
+		"adjective": ["Pebbles"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Bon Bijou! Kira kira koseki! I'm Koseki Bijou, sparkling jem of hololive english advent",
+		
+		"neutralHello": "Sticking out your gyatt for Nerizzler~",
+		"neutralLetsHearIt": ["Jo on.","What do you say?","You may bejin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very jood.","Of course, yes.","That is very jood."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Jo on."],
+		"hateNo": ["That is not possible!","We are not ajreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is jood enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [224,171,201],
+		"innerColor": [67,74,155],
+		"uniqueName": "Gem of emotion",
+		"uniqueText": "+1 [Happiness] from every tile wiith resource that can be improved by [Mine] and [Quarry]",
+		"uniques": ["[+1 Happiness] from [Aluminum] tiles [in all cities]","[+1 Happiness] from [Coal] tiles [in all cities]","[+1 Happiness] from [Copper] tiles [in all cities]","[+3 Happiness] from [Gems] tiles [in all cities]","[+1 Happiness] from [Gold Ore] tiles [in all cities]","[+1 Happiness] from [Iron] tiles [in all cities]","[+1 Happiness] from [Marble] tiles [in all cities]","[+1 Happiness] from [Salt] tiles [in all cities]","[+1 Happiness] from [Silver] tiles [in all cities]","[+1 Happiness] from [Stone] tiles [in all cities]","[+1 Happiness] from [Uranium] tiles [in all cities]"],
+		"cities": ["Advent's base (Biboo)"]
+	},
+	{
+		"name": "Universal Paperclips",
+		"leaderName": "Paperclip AI",
+		"adjective": ["Paperclips"],
+		"preferredVictoryType": "Time",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [170,169,173],
+		"uniqueName": "Make and sell paperclips",
+		"uniques": ["[+5 Gold] from all [Production] buildings"],
+		"cities": ["Paperclips Factory"]
+	},
+	{
+		"name": "Shattered pixel dungeon",
+		"leaderName": "The heroes",
+		"adjective": ["Dungeoneer"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [10,61,10],
+		"innerColor": [203,151,0],
+		"uniqueName": "Rationing food",
+		"uniques": ["[-1 Food] per [2] population [in all cities]","[+10]% Strength <for [non-[Wounded]] units>"],
+		"cities": ["Floor 1"]
 	}
 ]
