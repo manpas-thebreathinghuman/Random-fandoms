@@ -49,7 +49,7 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"obsoleteTech": "Metal Casting",
+		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","[+50]% Strength <when defending>"],
 		"attackSound": "nonmetalhit"

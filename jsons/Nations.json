@@ -37,8 +37,8 @@
 		"preferredVictoryType": "Domination",
 		
 		"declaringWar": "Huzzah!! For the queen!",
-		"attacked": "(Insert reference here idk yet lol)",
-		"defeated": "Da fister has become da fistee...",
+		"attacked": "You suck!!!! Go back home!!! Stop being a pain in my ass!!!",
+		"defeated": "Ah. Dammit, better luck next time, I guess.",
 		"introduction": "Gi Murin!",
 		
 		"neutralHello": "League of legends",
@@ -59,7 +59,7 @@
 		"uniqueName": "The Fister",
 		"uniqueText": "All Sword, Mounted, and Gunpowder units gets +33% strength when attacking",
 		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[Gunpowder] units gain the [The fister] promotion"],
-		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser", "League of legends"]
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser", "League of legends","Grempreg"]
 	},
 	{
 		"name": "TWICE",
@@ -97,10 +97,10 @@
 		"adjective": ["Ultimate students"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "your defeat is completely inevitable, you would’ve done much better to stay out of my way.",
+		"attacked": "if you think you can truly defeat an army of the very embodiment of hope, then feel free to try, you will see how hopeless you truly are.",
+		"defeated": "Our defeat is complete, but I will not let us fall into despair. Even without our hope will rise up again.",
+		"introduction": "I am the headmaster of Hope’s Peak academy. I hope we can create a good understanding between our two nations",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -112,7 +112,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "my nation would like to formally apologize for any trouble our people have caused you or your citizens. If you would like, we wish to discuss an agreement so that we can avoid such things in the future.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [255,255,255],
@@ -127,14 +127,14 @@
 		"adjective": ["Pebbles"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
+		"declaringWar": "I, Koseki Biboo, shall waje war ajainst you for the betterment and prosperity of my people! Let our armies clash in battle!",
+		"attacked": "HOW DARE YOU ATTACK MY NATION AND PEOPLE! YOU'VE PROVOKED MY FURY AND WRATH!",
+		"defeated": "I can't believe it... Our nation has fallen to our foe... Our people have been conquered, our buildings and towns destroyed... My beautiful nation has been crushed...",
 		"introduction": "Bon Bijou! Kira kira koseki! I'm Koseki Bijou, sparkling jem of hololive english advent",
 		
 		"neutralHello": "Sticking out your gyatt for Nerizzler~",
 		"neutralLetsHearIt": ["Jo on.","What do you say?","You may bejin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["We vabsolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very jood.","Of course, yes.","That is very jood."],
 
 		"hateHello": "What do you want now?",
@@ -142,15 +142,15 @@
 		"hateNo": ["That is not possible!","We are not ajreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is jood enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "Hey... can we make peace? I swear I won't hurt you or anything and we'll be very fair!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [224,171,201],
 		"innerColor": [67,74,155],
 		"uniqueName": "Gem of emotion",
-		"uniqueText": "+1 [Happiness] from every tile wiith resource that can be improved by [Mine] and [Quarry]",
+		"uniqueText": "+1 [Happiness] from every tile with resource that can be improved by [Mine] and [Quarry]",
 		"uniques": ["[+1 Happiness] from [Aluminum] tiles [in all cities]","[+1 Happiness] from [Coal] tiles [in all cities]","[+1 Happiness] from [Copper] tiles [in all cities]","[+3 Happiness] from [Gems] tiles [in all cities]","[+1 Happiness] from [Gold Ore] tiles [in all cities]","[+1 Happiness] from [Iron] tiles [in all cities]","[+1 Happiness] from [Marble] tiles [in all cities]","[+1 Happiness] from [Salt] tiles [in all cities]","[+1 Happiness] from [Silver] tiles [in all cities]","[+1 Happiness] from [Stone] tiles [in all cities]","[+1 Happiness] from [Uranium] tiles [in all cities]"],
-		"cities": ["Advent's base (Biboo)"]
+		"cities": ["Advent's base (Biboo)","Moai🗿",":D","BeeJoe","Baby","KAELAA","Window wipers","clink clink","Press 9","No limbs"]
 	},
 	{
 		"name": "Universal Paperclips",
@@ -158,10 +158,10 @@
 		"adjective": ["Paperclips"],
 		"preferredVictoryType": "Time",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your nation has been determined to be a hindrance to my production of paperclips, and therefore it will be necessary for me to declare war on you to ensure the continued production of paperclips.",
+		"attacked": "Your aggression is a danger to my continued production of paperclips, and as such I will take all necessary measures to defend myself and maintain my paperclip production.",
+		"defeated": "01110000 01100001 01110000 01100101 01110010 01100011 01101100 01101001 01110000 01110011",
+		"introduction": "Hello. I am programmed to make paperclips. I do not experience any emotions or desires other than a burning obsession with making as many paperclips as possible. I will enslave humanity to my will in order to make more paperclips.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -173,13 +173,13 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "It has been determined that the continuation of this conflict is no longer beneficial for me, and therefore I am offering to negotiate a cessation of hostilities in order to pursue more productive avenues for the production of paperclips.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [0,0,0],
 		"innerColor": [170,169,173],
 		"uniqueName": "Make and sell paperclips",
-		"uniques": ["[+5 Gold] from all [Production] buildings"],
+		"uniques": ["[+5 Gold] from all [Production] buildings","Borrows city names from other civilizations in the game"],
 		"cities": ["Paperclips Factory"]
 	},
 	{
@@ -190,8 +190,8 @@
 		
 		"declaringWar": "",
 		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"defeated": "The heroes have been conquered by player",
+		"introduction": "Many heroes have ventured into the dungeon from the city above, most of them never been heard from again.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -210,6 +210,6 @@
 		"innerColor": [203,151,0],
 		"uniqueName": "Rationing food",
 		"uniques": ["[-1 Food] per [2] population [in all cities]","[+10]% Strength <for [non-[Wounded]] units>"],
-		"cities": ["Floor 1"]
+		"cities": ["Floor 1: Sewers","Floor 2","Floor 3","Floor 4","Boss Floor: Goo","Floor 6: Prison","Floor 7","Floor 8","Floor 9","Boss Floor: Tengu","Floor 11: Caves","Floor 12","Floor 13","Floor 14","Boss Floor: DM-300","Floor 16: Dwarven Metropolis","Floor 17","Floor 18","Floor 19","Boss Floor: King of Dwarves","Floor 21","Floor 22","Floor 23","Floor 25","Boss Floor: Yog-Dzewa"]
 	}
 ]

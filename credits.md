@@ -14,5 +14,6 @@ Pebbels' icon is from a screenshot from Biboo's twitter (https://x.com/kosekibij
 Paperclip & Drone Factory is literally just the unciv's factory icon
 Do not tell anyone (except the owner) but I stole the Drone's icon from Aqua2005's AquaExtension GAK's Reconnaissance Plane (I can't find a way to contact him I would have asked for permissions)
 Shattered pixel dungeon icon is taken from their wiki (https://static.wikia.nocookie.net/pixeldungeon/images/0/0c/Shattered_PD_logo.png/revision/latest?cb=20150719050307)
+Shopkeeper's shop and Golden bee's icons are taken from in-game screenshots
 
 The rest of the icon I made myself using paint 👍
