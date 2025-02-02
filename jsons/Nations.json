@@ -211,5 +211,133 @@
 		"uniqueName": "Rationing food",
 		"uniques": ["[-1 Food] per [2] population [in all cities]","[+10]% Strength <for [non-[Wounded]] units>"],
 		"cities": ["Floor 1: Sewers","Floor 2","Floor 3","Floor 4","Boss Floor: Goo","Floor 6: Prison","Floor 7","Floor 8","Floor 9","Boss Floor: Tengu","Floor 11: Caves","Floor 12","Floor 13","Floor 14","Boss Floor: DM-300","Floor 16: Dwarven Metropolis","Floor 17","Floor 18","Floor 19","Boss Floor: King of Dwarves","Floor 21","Floor 22","Floor 23","Floor 25","Boss Floor: Yog-Dzewa"]
+	},
+	{
+		"name": "Abydos High School",
+		"leaderName": "Takanashi Hoshino",
+		"adjective": ["Abydos High School"],
+		"preferredVictoryType": "Domination",
+		"startBias": ["Desert","Oasis"],
+		
+		"declaringWar": "To the enemies we're about to face: You'll regret messing with us. We're not gonna go down easily. No matter what you do, the Abydos High Student Council will prevail!",
+		"attacked": "To all those who have declared war on us: We will not go down without a fight! You may have outnumbered us, but we have something stronger than numbers - our determination and our will to protect our school! Bring it on!",
+		"defeated": "We fought hard, but unfortunately, we were outmatched this time. We may have lost this battle, but we will come back stronger. We will learn from our mistakes and rise again. This is not the end for us. We will fight again and we will prevail.",
+		"introduction": "Welcome to Abydos High, kid. I'm Hoshino, chairwoman of the Foreclosure Task Force, and the vice president of the Student Council.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "I'm glad that we were able to resolve our issues and come to a peaceful agreement. We may not be exactly friends, but I'm relieved that the fighting has ended.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0, 229, 255],
+		"innerColor": [9, 17, 27],
+		"uniqueName": "Foreclusive measures",
+		"uniques": ["[+3 Science, -1 Gold] in cities on [Desert] tiles<starting from the [Industrial era]>","[+2 Science, -2 Gold] in cities on [Desert] tiles<starting from the [Modern era]>","[+1 Science, -3 Gold] in cities on [Desert] tiles<starting from the [Atomic era]>","[+1 Culture, +1 Gold] from every [Oasis]<in [Capital] cities>"],
+		"cities": ["Abydos High School"]
+	},
+	{
+		"name": "Jay Foreman",
+		"leaderName": "Prime Minister Potato",
+		"adjective": ["Jay Foreman"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "(The potato is not moving. But You feel that it's angry at you)",
+		"attacked": "(The potato seems indifferent)",
+		"defeated": "(The potato has been crushed. It cannot speak anymore)",
+		"introduction": "(A potato is standing in front of you. For some reason, you know that this is this Nation's prime minister. You also hear a voice that says: Welcome to Map men. We're the Men, and here's the Map!",
+		
+		"neutralHello": "(The potato is standing in front of you)",
+		"neutralLetsHearIt": ["(The potato is standing infront of you)","(There's a potato in front of you. It's the PM potato)","(Potat in front. It stand)"],
+		"neutralNo": ["(The potato doesn't move, signaling it's disapproval)","(The potato doesn't move, but you feel it disagrees)","(Potat not like you said)"],
+		"neutralYes": ["(The potato doesn't move, signaling it's approval)","(The potato doesn't move, but you feel ut agrees)","(Potat like what you said)"],
+
+		"hateHello": "(The potato is standing in front of you. You feel that it hates you)",
+		"hateLetsHearIt": ["(The potato is standing infront of you)","(There's a potato in front of you. It's the PM potato)","(Potat in front. It stand)"],
+		"hateNo": ["(The potato doesn't move, signaling it's disapproval)","(The potato doesn't move, but you feel it disagrees)","(Potat not like you said)"],
+		"hateYes": ["(The potato doesn't move, signaling it's approval)","(The potato doesn't move, but you feel ut agrees)","(Potat like what you said)"],
+		 
+		"afterPeace": "(The potato is in front of you. You feel that it wants to stop fighting)",
+		"tradeRequest": "(The potato shows up in front of you. You feel that it has something to offer)",
+
+		"outerColor": [249,250,245],
+		"innerColor": [9,14,13],
+		"uniqueName": "Map men",
+		"uniques": ["Reveal up to [25] [All] within a [5] tile radius<upon founding a city>","[+2] Sight<for [All] units>"],
+		"cities": ["Unfinished London", ""]
+	},
+	{
+		"name": "Holocure",
+		"leaderName": "Kay Yu",
+		"adjective": ["Holcure"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "You ever code something for weeks only to realize it’s completely busted? Yeah, that’s what I’m about to do… to your empire.",
+		"attacked": "Wait, YOU’RE the one starting this fight? Alright then… hope you’re ready for some unintended difficulty spikes!",
+		"defeated": "Looks like… this is my final patch. GG, well played. HoloCure Nation… signing off.",
+		"introduction": "Oh hey, welcome to the HoloCure Nation! No gacha here, just good vibes and broken game mechanics.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "Okay, okay, fine! Patch notes: War is over. Peace is live. Hope this update doesn’t break something else.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [54,198,255],
+		"innerColor": [251,131,180],
+		"uniqueName": "Save the Fans!",
+		"uniques": ["[+50]% Strength<vs [Barbarian] units>","[+33]% Strength<for [All] units><when above [10] Happiness>"],
+		"cities": ["Grassy Plains", "Holo Office", "Halloween Castle", "Gelora Bung Yagoo", "Fantasy Island", "Grassy Plains (Night)", "Holo Office (Evening)", "Halloween Castle (MYTH)", "Gelora Bung Yagoo (Night)"]
+	},
+	{
+		"name": "Microsoft Games",
+		"leaderName": "Solitaire",
+		"adjective": ["Games"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [29,100,152],
+		"innerColor": [255,255,255],
+		"uniqueName": "Nostalgia",
+		"uniques": ["[+3 Happiness, +3 Culture]<during the [Ancient era]>", "[+3 Happiness, +3 Culture]<during the [Classical era]>","[+2 Happiness, +2 Culture]<during the [Medieval era]>","[+2 Happiness, +2 Culture]<during the [Renaissance era]>","[+1 Happiness, +1 Culture]<during the [Industrial era]>","[+1 Happiness, +1 Culture]<during the [Modern era]>"],
+		"cities": ["Reversi","Soltaire","Minesweeper","Hearts","Freecell","Hover!","3D Pinball for Windows - Space Cadet","Internet Backgammon","Internet Checkers","Internet Hearts","Internet Reversi","Internet Spades","Spider Solitaire","Inkball","Purble Place","Mahjong Titans","Chess Titans","Tinker","Hold 'Em","Solitaire Collection","Surf"]
+	},
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
 	}
 ]

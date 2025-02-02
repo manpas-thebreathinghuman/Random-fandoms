@@ -77,5 +77,59 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 10, "food": 5, "science": 5},
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Abydos School Building",
+		"uniqueTo": "Abydos High School",
+		"replaces": "Library",
+		"science": 2,
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Tube Station",
+		"uniqueTo": "Jay Foreman",
+		"uniques": ["[+2 Gold, +2 Culture, +2 Production]<in cities connected to the capital>","[+2 Gold, +2 Culture, +2 Production]<in [capital] cities>"],
+		"requiredTech": "Railroads"
+	},
+	{
+		"name": "Grandma's Food",
+		"uniqueTo": "Jay Foreman",
+		"replaces": "Hospital",
+		"food": 4,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology",
+		"uniques": ["[+1 Food] per [5] population [in this city]"]
+	},
+	{
+		"name": "Holo House",
+		"uniqueTo": "Holocure",
+		"replaces": "Granary",
+		"food": 2,
+		"gold": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Purble Place",
+		"uniqueTo": "Microsoft Games",
+		"replaces": "Windmill",
+		"production": 2,
+		"food": 2,
+		"specialistSlots": {"Engineer": 1, "Artist": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
 	}
 ]

@@ -8,5 +8,14 @@
 		"techRequired": "Civil Service",
         "uniques": ["Adjacent enemy units ending their turn take [8] damage"],
         "shortcutKey": "G"
+    },
+    {
+        "name": "Minesweeper Field",
+        "uniqueTo": "Microsoft Games",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Snow","Desert"],
+        "turnsToBuild": 9,
+        "techRequired": "Gunpowder",
+        "uniques": ["Adjacent enemy units ending their turn take [50] damage<with [20]% chance>", "Cannot be built on [Land] tiles<with [3] to [6] neighboring [Minesweeper field] tiles>"],
+        "shortcutKey": "S"
     }
 ]

@@ -15,5 +15,18 @@ Paperclip & Drone Factory is literally just the unciv's factory icon
 Do not tell anyone (except the owner) but I stole the Drone's icon from Aqua2005's AquaExtension GAK's Reconnaissance Plane (I can't find a way to contact him I would have asked for permissions)
 Shattered pixel dungeon icon is taken from their wiki (https://static.wikia.nocookie.net/pixeldungeon/images/0/0c/Shattered_PD_logo.png/revision/latest?cb=20150719050307)
 Shopkeeper's shop and Golden bee's icons are taken from in-game screenshots
+I stole the entirety of AquaExtension GAK's Reconnaissance Plane's code for Drifters (Would have asked for permissions if I can contact him)
+Abydos High School's logos are provided by Sorai Saki
+Jay Foreman logo is an edited version of The Map Men logo taken from wikipedia (https://en.wikipedia.org/wiki/Map_Men#/media/File:Map_Men_Logo.svg)
+Tube Station logo is taken from the london underground logo on wikipedia (https://en.m.wikipedia.org/wiki/File:Underground_%28no_text%29.svg)
+Holocure logo is the holocure logo taken from (https://www.steamgriddb.com/icon/18752)
+Holo House logo is taken from the screenshot of the Holo House logo from the Holocure title screen
+Golden Yagoo logo is taken from a screenshot of it
+Microsoft Games logo is taken from Microsoft casual games logo from (https://pbs.twimg.com/profile_images/1664324447896236033/_i-gYQKJ_400x400.jpg)
+Purble place logo is the purble place logo taken from (https://logos.fandom.com/wiki/Purble_Place?file=Purble_Place.png)
+Minesweeper field logo is technicially stolen, but I drew it myself :3
+
+Credit to Ω Apocalypse Ω on discord for helping me adding shattered pixel dungeon
+Credit to Sorai Saki on discord for suggesting the entirety of Abydos High School including it's uniques and logo
 
 The rest of the icon I made myself using paint 👍
