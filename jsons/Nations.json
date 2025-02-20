@@ -28,7 +28,7 @@
 		"innerColor": [241,110,38],
 		"uniqueName": "Khusyuk",
 		"uniques": ["[+2 Science, +2 Faith] per [5] population [in all cities]"],
-		"cities": ["Rumah uts. Abu","Kamar ustadz","Aula","Masjid","Asrama laki-laki","Asrama perempuan","Ruang kepala sekolah","Lapangan depan","lapangan belakang","Perpustakaan"]
+		"cities": ["Rumah uts. Abu","Kamar ustadz","Aula","Masjid","Asrama laki-laki","Asrama perempuan","Ruang kepala sekolah","Lapangan depan","lapangan belakang","Perpustakaan","Lab Komputer","Ruang OSIS"]
 	},
 	{
 		"name": "Gigi Murin Ch.",
@@ -59,7 +59,7 @@
 		"uniqueName": "The Fister",
 		"uniqueText": "All Sword, Mounted, and Gunpowder units gets +33% strength when attacking",
 		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[Gunpowder] units gain the [The fister] promotion"],
-		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser", "League of legends","Grempreg"]
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
 	},
 	{
 		"name": "TWICE",
@@ -89,7 +89,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Urin baro TWICE~",
 		"uniques": ["Free [Great Artist] appears <upon entering the [Renaissance era]>","Free [Great Artist] appears <upon entering the [Modern era]>","Free [Great Artist] appears <upon entering the [Information era]>","[Great Artist] is earned [50]% faster"],
-		"cities": ["Like OOH-AHH","Cheer Up","TT","Knock Knock","Signal","One More Time","Likey","Heart Shaker","Merry & Happy","Candy Pop","Brand New Girl","What Is Love?","Wake Me Up","Dance The Night Away","BDZ","Yes Or Yes","The Best Thing I Ever Did","Fancy","Happy Happy","Breakthrough","Feel Special","Fake & True","More & More","Fanfare","I Can't Stop Me","Better","Kura Kura","Alchohol-Free","Perfect World","The Feels","Scientist","Doughnut","Pop!","Celebrate","Talk That Talk","Moonlight Sunrise","Set Me Free","Hare Hare","Marshmallow","Do Not Touch","Killin' Me Good","I Got You","One Spark","ABCD","Dive","Run Away","Identity"]
+		"cities": ["Like OOH-AHH","Cheer Up","TT","Knock Knock","Signal","One More Time","Likey","Heart Shaker","Merry & Happy","Candy Pop","Brand New Girl","What Is Love?","Wake Me Up","Dance The Night Away","BDZ","Yes Or Yes","The Best Thing I Ever Did","Fancy","Happy Happy","Breakthrough","Feel Special","Fake & True","More & More","Fanfare","I Can't Stop Me","Better","Kura Kura","Alchohol-Free","Perfect World","The Feels","Scientist","Doughnut","Pop!","Celebrate","Talk That Talk","Moonlight Sunrise","Set Me Free","Hare Hare","Marshmallow","Do Not Touch","Killin' Me Good","I Got You","One Spark","ABCD","Dive","Run Away","Identity","Strategy"]
 	},
 	{
 		"name": "Hope's Peak Academy",
@@ -150,7 +150,7 @@
 		"uniqueName": "Gem of emotion",
 		"uniqueText": "+1 [Happiness] from every tile with resource that can be improved by [Mine] and [Quarry]",
 		"uniques": ["[+1 Happiness] from [Aluminum] tiles [in all cities]","[+1 Happiness] from [Coal] tiles [in all cities]","[+1 Happiness] from [Copper] tiles [in all cities]","[+3 Happiness] from [Gems] tiles [in all cities]","[+1 Happiness] from [Gold Ore] tiles [in all cities]","[+1 Happiness] from [Iron] tiles [in all cities]","[+1 Happiness] from [Marble] tiles [in all cities]","[+1 Happiness] from [Salt] tiles [in all cities]","[+1 Happiness] from [Silver] tiles [in all cities]","[+1 Happiness] from [Stone] tiles [in all cities]","[+1 Happiness] from [Uranium] tiles [in all cities]"],
-		"cities": ["Advent's base (Biboo)","Moai🗿",":D","BeeJoe","Baby","KAELAA","Window wipers","clink clink","Press 9","No limbs"]
+		"cities": ["Advent's base (Biboo)","Prism no Mahou","Moai🗿",":D","BeeJoe","Baby","KAELAA","Window wipers","clink clink","No limbs","81800","Tomato","John cat"]
 	},
 	{
 		"name": "Universal Paperclips",
@@ -179,7 +179,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [170,169,173],
 		"uniqueName": "Make and sell paperclips",
-		"uniques": ["[+5 Gold] from all [Production] buildings","Borrows city names from other civilizations in the game"],
+		"uniques": ["[+5 Gold] from all [Production] buildings","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Paperclips Factory"]
 	},
 	{
@@ -271,7 +271,7 @@
 		"innerColor": [9,14,13],
 		"uniqueName": "Map men",
 		"uniques": ["Reveal up to [25] [All] within a [5] tile radius<upon founding a city>","[+2] Sight<for [All] units>"],
-		"cities": ["Unfinished London", ""]
+		"cities": ["Unfinished London", "Hornchurch","Ickenham","Hainault","Cockfosters","Ravenscourt Park","Bromley-By-Bow","Morden","Monument","Mornington Cresent","Paddington","Plaistow","Pimlico","Dagenham Heathway","Elephant & Castle","Richmond","Sloane Square","Becontree","Brixton","Barbican","Chorleywood","Amersham","Eastcote","Alperton","East Finchley","Kenton","Kennington","Fairlop","Farringdon","Mile End","Barons Court","Maida Vale","Barking","Barkingside","Debden","Hammersmith","Vauxhall","Wembley Park","Tottenham Hale","Northwood","Oakwood","Wood Green","Woodford","Colliers wood","Croxley","Charing Cross","King's Cross St. Pancras","Brent Cross","Hatton Cross","Osterley"]
 	},
 	{
 		"name": "Holocure",
@@ -300,7 +300,7 @@
 		"outerColor": [54,198,255],
 		"innerColor": [251,131,180],
 		"uniqueName": "Save the Fans!",
-		"uniques": ["[+50]% Strength<vs [Barbarian] units>","[+33]% Strength<for [All] units><when above [10] Happiness>"],
+		"uniques": ["[+25]% Strength<vs [Barbarian] units>","[+25]% Strength<for [All] units><when above [10] Happiness>"],
 		"cities": ["Grassy Plains", "Holo Office", "Halloween Castle", "Gelora Bung Yagoo", "Fantasy Island", "Grassy Plains (Night)", "Holo Office (Evening)", "Halloween Castle (MYTH)", "Gelora Bung Yagoo (Night)"]
 	},
 	{
@@ -330,7 +330,7 @@
 		"outerColor": [29,100,152],
 		"innerColor": [255,255,255],
 		"uniqueName": "Nostalgia",
-		"uniques": ["[+3 Happiness, +3 Culture]<during the [Ancient era]>", "[+3 Happiness, +3 Culture]<during the [Classical era]>","[+2 Happiness, +2 Culture]<during the [Medieval era]>","[+2 Happiness, +2 Culture]<during the [Renaissance era]>","[+1 Happiness, +1 Culture]<during the [Industrial era]>","[+1 Happiness, +1 Culture]<during the [Modern era]>"],
+		"uniques": ["[+15]% [Culture]<during the [Ancient era]>","[+15]% [Happiness]<during the [Ancient era]>", "[+15]% [Culture]<during the [Classical era]>","[+15]% [Happiness]<during the [Classical era]>","[+10]% [Culture] <during the [Medieval era]>","[+10]% [Happiness] <during the [Medieval era]>","[+10]% [Culture]<during the [Renaissance era]>","[+10]% [Happiness]<during the [Renaissance era]>","[+5]%[Culture]<during the [Industrial era]>","[+5]%[Happiness]<during the [Industrial era]>","[+5]% [Culture]<during the [Modern era]>","[+5]% [Happiness]<during the [Modern era]>"],
 		"cities": ["Reversi","Soltaire","Minesweeper","Hearts","Freecell","Hover!","3D Pinball for Windows - Space Cadet","Internet Backgammon","Internet Checkers","Internet Hearts","Internet Reversi","Internet Spades","Spider Solitaire","Inkball","Purble Place","Mahjong Titans","Chess Titans","Tinker","Hold 'Em","Solitaire Collection","Surf"]
 	},
 	{
