@@ -131,5 +131,17 @@
 		"maintenance": 2,
 		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
-	}
+	},
+		{
+			"name": "Mod Fork",
+			"uniqueTo": "Unciv",
+			"replaces": "Bank",
+			"gold": 2,
+			"happiness": 2,
+			"specialistSlots": {"Merchant": 1},
+			"hurryCostModifier": 15,
+			"percentStatBonus": {"gold": 25},
+			"uniques": ["Comment [Unlocked at [Guilds]]", "[+1 Culture] per [5] population [in this city]"],
+			"requiredTech": "Guilds"
+		}
 ]
