@@ -24,9 +24,17 @@ Holo House logo is taken from the screenshot of the Holo House logo from the Hol
 Golden Yagoo logo is taken from a screenshot of it
 Microsoft Games logo is taken from Microsoft casual games logo from (https://pbs.twimg.com/profile_images/1664324447896236033/_i-gYQKJ_400x400.jpg)
 Purble place logo is the purble place logo taken from (https://logos.fandom.com/wiki/Purble_Place?file=Purble_Place.png)
-Minesweeper field logo is technicially stolen, but I drew it myself :3
+Minesweeper field logo is stolen from a reference, but I drew it myself :3
+Red Winter Federal Academy logo is provided by Sorai Saki
+Deer cracker logo is taken from a screenshot
+Deer Mascots logo is literally just the unciv deer icon
+Schizo Nation logo is my artistic rendition of an image provided by X2003 (Trad Boywife)
+Misdo and Pon De Ring logo is taken from a photo of a pon de ring
 
 Credit to Ω Apocalypse Ω on discord for helping me adding shattered pixel dungeon
-Credit to Sorai Saki on discord for suggesting the entirety of Abydos High School including it's uniques and logo
+Credit to Sorai Saki on discord for suggesting Abydos High School and Red Winter Federal Academy
+Credit to riceroll on discord for suggesting Atlantis
+Credit to X2003 (Trad Boywife) on discord for suggesting Deer Club
+The entirety of Unciv including code is by RatInfestation
 
 The rest of the icon I made myself using paint 👍

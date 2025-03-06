@@ -8,7 +8,11 @@
         "uniques": ["[10] HP when healing","[+25]% Strength<for [Wounded] units>"]
     },
     {
-            "name": "Foreclusive Task Force",
-            "uniques": ["[+33]% Strength <in [Friendly] tiles>","[+15]% Strength <when defending><in [Citadel] tiles>","[-100]% maintenance costs<within [1] tiles of a [City Center]>"]
+        "name": "Foreclusive Task Force",
+        "uniques": ["[+33]% Strength <in [Friendly] tiles>","[+15]% Strength <when defending><in [Citadel] tiles>","[-100]% maintenance costs<within [1] tiles of a [City Center]>"]
+    },
+    {
+        "name": "Blackmen",
+        "uniques": ["[50]% to Flank Attack bonuses","[+10]% Strength"]
     }
 ]

@@ -108,6 +108,87 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Leviathan",
+		"uniqueTo": "Atlantis",
+		"replaces": "Submarine",
+		"unitType": "Ranged Water",
+		"movement": 6,
+		"strength": 54,
+		"cost": 325,
+		"requiredTech": "Refrigeration",
+		"upgradesTo": "Nuclear Submarine",
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo"
+	},
+	{
+		"name": "Purgirator Tank",
+		"uniqueTo": "Red Winter Federal Academy",
+		"replaces": "Tank",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 80,
+		"cost": 275,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"promotions": ["Shock I"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Deer Mascots",
+		"uniqueTo": "Deer Club",
+		"replaces": "Landship",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 50,
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"obsoleteTech": "Plastics",
+		"requiredResource": "Deer Cracker",
+		"upgradesTo": "Tank",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Mococo Beam",
+		"uniqueTo": "FUWAMOCO Ch.",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 3,
+		"interceptRange": 3,
+		"cost": 230,
+		"requiredTech": "Industrialization",
+		"requiredResource": "Pon De Ring",
+		"uniques": ["[33]% chance to intercept air attacks"],
+		"attackSound": "missile"
+	},
+	{
+		"name": "Great Creative",
+		"uniqueTo": "Unciv",
+		"replaces": "Great Prophet",
+		"unitType": "Civilian",
+		"uniques": [
+						"Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+						"Can instantly construct a [Landmark] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+						"Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+						"Can instantly construct a [Customs house] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+						"Can instantly construct a [Citadel] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+						"Can instantly construct a [Manufactory] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+
+						"Can Spread Religion <for [2] movement> <[3] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+						"May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+						"May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Takes your religion over the one in their birth city"],
+		"movement": 2,
+		"religiousStrength": 1000
+	},
+	{
 		"name": "Monokuma Units",
 		"uniqueTo": "Barbarians",
 		"replaces": "Pikeman",
@@ -183,28 +264,5 @@
 		"obsoleteTech": "Physics",
 		"uniques": ["Self-destructs when attacking"],
 		"attackSound": "bombing"
-	},
-	{
-		"name": "Great Creative",
-		"uniqueTo": "Unciv",
-		"replaces": "Great Prophet",
-		"unitType": "Civilian",
-		"uniques": [
-						"Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-						"Can instantly construct a [Landmark] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-						"Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-						"Can instantly construct a [Customs house] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-						"Can instantly construct a [Citadel] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-						"Can instantly construct a [Manufactory] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-
-						"Can Spread Religion <for [2] movement> <[3] times> <after which this unit is consumed>",
-			"Removes other religions when spreading religion",
-						"May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
-						"May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
-			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
-			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-			"Takes your religion over the one in their birth city"],
-		"movement": 2,
-		"religiousStrength": 1000
-	},
+	}
 ]

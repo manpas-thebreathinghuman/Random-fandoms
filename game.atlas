@@ -249,3 +249,136 @@ ImprovementIcons/Minesweeper Field
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Atlantis
+  rotate: false
+  xy: 1724, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Red Winter Federal Academy
+  rotate: false
+  xy: 1734, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Deer Club
+  rotate: false
+  xy: 1825, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Schizo Nation
+  rotate: false
+  xy: 1837, 105
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/FUWAMOCO Ch.
+  rotate: false
+  xy: 1928, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Unciv
+  rotate: false
+  xy: 1932, 107
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Workers' Happy Factory
+  rotate: false
+  xy: 1734, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Deer Cracker Stash
+  rotate: false
+  xy: 2033, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Deer Cracker
+  rotate: false
+  xy: 2042, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ramaikan, Lalu Hitamkan
+  rotate: false
+  xy: 2041, 99
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Blackmen
+  rotate: false
+  xy: 2041, 99
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ada Indonesia Cuy!
+  rotate: false
+  xy: 2144, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Misdo
+  rotate: false
+  xy: 2142, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/POn De Ring
+  rotate: false
+  xy: 2345, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mod Fork
+  rotate: false
+  xy: 2237, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Purgirator Tank
+  rotate: false
+  xy: 1734, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Deer Mascots
+  rotate: false
+  xy: 2345, 108
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mococo Beam
+  rotate: false
+  xy: 2448, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Creative
+  rotate: false
+  xy: 2448, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
