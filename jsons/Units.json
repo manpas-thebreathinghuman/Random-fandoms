@@ -151,7 +151,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Mococo Beam",
+		"name": "Mococoe Beam",
 		"uniqueTo": "FUWAMOCO Ch.",
 		"unitType": "Fighter",
 		"movement": 1,
@@ -252,17 +252,17 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "SSRB",
+		"name": "SSRBs",
 		"uniqueTo": "Barbarians",
 		"unitType": "Melee",
 		"movement": 2,
 		"range": 1,
 		"strength": 2,
-		"rangedStrength": 16,
+		"rangedStrength": 23,
 		"cost": 75,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
-		"uniques": ["Self-destructs when attacking"],
+		"uniques": ["Self-destructs when attacking","[-25]% Strength <when defending>"],
 		"attackSound": "bombing"
 	}
 ]

@@ -188,8 +188,8 @@
 		"adjective": ["Dungeoneer"],
 		"preferredVictoryType": "Domination",
 		
-		"declaringWar": "",
-		"attacked": "",
+		"declaringWar": "We’ve faced worse than you in the depths. Prepare yourself!",
+		"attacked": "Another threat in our path. Fine—just know that we don’t go down easily!",
 		"defeated": "The heroes have been conquered by player",
 		"introduction": "Many heroes have ventured into the dungeon from the city above, most of them never been heard from again.",
 		
@@ -203,7 +203,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "The best adventurers know when to retreat. This war ends here.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [10,61,10],
@@ -309,10 +309,10 @@
 		"adjective": ["Games"],
 		"preferredVictoryType": "Cultural",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I was going to let you win... but this is much more fun!",
+		"attacked": "War? I was expecting a quiet afternoon with a deck of cards. Very well, let’s shuffle and deal.",
+		"defeated": "Looks like I’ve run out of moves. Well played.",
+		"introduction": "Welcome. I am Solitaire, ruler of the classics. Shall we pass the time together?",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -324,7 +324,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "Very well, I’ll fold… for now.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [29,100,152],
@@ -340,10 +340,10 @@
 		"preferredVictoryType": "Scientific",
 		"startBias": ["Coast"],
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You threaten my people? Then you will learn why Atlantis has survived for millennia!",
+		"attacked": "So, you come as a conqueror. Then you will find only the ruins of your own ambitions.",
+		"defeated": "Atlantis may fall today… but the ocean will reclaim us, and we will rise again.",
+		"introduction": "You have found Atlantis, yet we remain hidden for a reason. Tread carefully, outsider.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -355,7 +355,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "We have fought, but Atlantis endures. Let us end this conflict before more is lost.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [5,111,175],
@@ -371,10 +371,10 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Tundra","Snow","Hill"],
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Those damn idiots are way too haughty thinking that they can defy me and my military might! It's time that they learn their lesson! I'll make sure that their entire country is crushed by the full might of Red Winter!",
+		"attacked": "You are a damn pain! How dare you go against me and my Academy! I thought we were going to have friendly relations, but instead you decided to go to war?! But if that's what you want, then i'll gladly teach you a lesson! You'll see why Red Winter is a force to be reckoned with! We will burn away you and your damn civilization until there's nothing left!",
+		"defeated": "Damn, i got beaten by you idiots. But just you wait, next time i'll be sure to win!",
+		"introduction": "I am Renkawa Cherino, the glorious leader off the Red Winter Federal Academy! And who the hell are you to dare meet face to face with me! Do you come in peace, or as an hostile threat?! Either way i assure you that if you come to make trouble, then you will be disposed of swiftly...!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -386,7 +386,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "Ah, after this treaty i can FINALLY stop fighting these morons...",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [210,47,48],
@@ -402,10 +402,10 @@
 		"preferredVictoryType": "Cultural",
 		"startBias": ["Forest"],
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I regret to inform you that our two civilizations have come to a point of conflict. We hereby declare war on your civilization and will not stop until victory is achieved.",
+		"attacked": "You have committed a grave insult and an act of war against my civilization. Know that we will retaliate with full force and defend ourselves until victory is ours.",
+		"defeated": "You have bested us on the field of battle -_-. We acknowledge our defeat and offer our surrender.",
+		"introduction": "Greetings! We are meeting for the first time, and I'm interested to learn more about your civilization and our future relations.",
 		
 		"neutralHello": "Nun nun",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -417,7 +417,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "We are thankful for your willingness to end hostilities. May this treaty mark the beginning of understanding and cooperation between our civilizations.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [166,200,43],
@@ -433,8 +433,8 @@
 		"preferredVictoryType": "Cultural",
 		"startBias": ["Coast"],
 		
-		"declaringWar": "",
-		"attacked": "",
+		"declaringWar": "Serlok tak parani",
+		"attacked": "WAR? LU MAU 1v1 MID, BANG?",
 		"defeated": "",
 		"introduction": "",
 		
@@ -463,10 +463,10 @@
 		"adjective": ["Ruffians"],
 		"preferredVictoryType": "Cultural",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your civilization has threatened the peaceful order that we have built. We, the leaders of FUWAMOCO Ch, will put an end to your tyranny and protect the innocents of our world.",
+		"attacked": "We may be under siege, but we will not give up so easily. We implore you to cease your invasion and instead engage in peaceful diplomacy.",
+		"defeated": "Though we may have lost this battle, we know that we fought valiantly and with integrity. We'll accept defeat and work to rebuild our civilization stronger than ever.",
+		"introduction": "I'm not a chihuahua, I'm Fuwawa. I'm not Fuwawa, I'm Mococo! Together we're FUWAMOCO!!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -478,7 +478,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "",
+		"afterPeace": "War is over. Let the era of peace and donuts begin!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [200,223,255],
