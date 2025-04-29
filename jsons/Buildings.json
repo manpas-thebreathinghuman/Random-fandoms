@@ -168,10 +168,11 @@
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
+		"percentStatBonus": {"happiness": 10},
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]",
-			"Provides [1] [Deer Cracker]","New [Mounted] units start with [10] experience [in all cities]"],
+			"New [Mounted] units start with [10] experience [in all cities]"],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -190,7 +191,7 @@
 		"replaces": "Circus",
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Gain [200] [Culture]<upon declaring friendship>"],
+		"uniques": ["[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Gifts of Gold to City-States generate [50]% more Influence"],
 		"requiredTech": "Trapping"
 	},
 	{
@@ -199,6 +200,7 @@
 		"replaces": "Market",
 		"gold": 2,
 		"food": 1,
+		"happiness": 1,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},

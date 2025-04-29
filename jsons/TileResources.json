@@ -1,10 +1,9 @@
 [
-	{
-		"name": "Deer Cracker",
-		"resourceType": "Luxury"
-	},
     {
         "name": "Pon De Ring",
-        "resourceType": "Luxury"
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen", "Doesn't generate naturally",
+			"Stockpiled", "Cannot be traded", 
+			"Excluded from map editor"]
     }
 ]

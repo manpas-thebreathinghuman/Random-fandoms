@@ -35,6 +35,7 @@
 		"leaderName": "Gigi Murin",
 		"adjective": ["Grems"],
 		"preferredVictoryType": "Domination",
+		"favoredReligion": "Boat Goes Binted",
 		
 		"declaringWar": "Huzzah!! For the queen!",
 		"attacked": "You suck!!!! Go back home!!! Stop being a pain in my ass!!!",
@@ -59,13 +60,14 @@
 		"uniqueName": "The Fister",
 		"uniqueText": "All Sword, Mounted, and Gunpowder units gets +33% strength when attacking",
 		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[Gunpowder] units gain the [The fister] promotion"],
-		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofeester", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofister", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
 	},
 	{
 		"name": "TWICE",
 		"leaderName": "Park Jihyo",
 		"adjective": ["Once"],
 		"preferredVictoryType": "Cultural",
+		"favoredReligion": "TWICE",
 		
 		"declaringWar": "Like a bulldozer! Like a tank, like a soldier! Kowasu yo kimi no kokoro no gaado",
 		"attacked": "",
@@ -96,6 +98,7 @@
 		"leaderName": "Jin Kirigiri",
 		"adjective": ["Ultimate students"],
 		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Hope",
 		
 		"declaringWar": "your defeat is completely inevitable, you would’ve done much better to stay out of my way.",
 		"attacked": "if you think you can truly defeat an army of the very embodiment of hope, then feel free to try, you will see how hopeless you truly are.",
@@ -126,6 +129,7 @@
 		"leaderName": "Koseki Bijou",
 		"adjective": ["Pebbles"],
 		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Rock",
 		
 		"declaringWar": "I, Koseki Biboo, shall waje war ajainst you for the betterment and prosperity of my people! Let our armies clash in battle!",
 		"attacked": "HOW DARE YOU ATTACK MY NATION AND PEOPLE! YOU'VE PROVOKED MY FURY AND WRATH!",
@@ -157,6 +161,7 @@
 		"leaderName": "Paperclip AI",
 		"adjective": ["Paperclips"],
 		"preferredVictoryType": "Time",
+		"favoredReligion": "Paperclips",
 		
 		"declaringWar": "Your nation has been determined to be a hindrance to my production of paperclips, and therefore it will be necessary for me to declare war on you to ensure the continued production of paperclips.",
 		"attacked": "Your aggression is a danger to my continued production of paperclips, and as such I will take all necessary measures to defend myself and maintain my paperclip production.",
@@ -401,6 +406,7 @@
 		"adjective": ["Deers"],
 		"preferredVictoryType": "Cultural",
 		"startBias": ["Forest"],
+		"favoredReligion": "Deer",
 		
 		"declaringWar": "I regret to inform you that our two civilizations have come to a point of conflict. We hereby declare war on your civilization and will not stop until victory is achieved.",
 		"attacked": "You have committed a grave insult and an act of war against my civilization. Know that we will retaliate with full force and defend ourselves until victory is ours.",
@@ -462,6 +468,7 @@
 		"leaderName": "Fuwawa & Mococo Abyssgard",
 		"adjective": ["Ruffians"],
 		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Bau Bau",
 		
 		"declaringWar": "Your civilization has threatened the peaceful order that we have built. We, the leaders of FUWAMOCO Ch, will put an end to your tyranny and protect the innocents of our world.",
 		"attacked": "We may be under siege, but we will not give up so easily. We implore you to cease your invasion and instead engage in peaceful diplomacy.",
@@ -484,7 +491,7 @@
 		"outerColor": [200,223,255],
 		"innerColor": [254,104,189],
 		"uniqueName": "Bau bau!",
-		"uniques": ["Free Great Person<upon gaining a [Great Person] unit>"],
+		"uniques": ["Free [Great General's twin] appears<upon gaining a [Great General] unit>","Free [Great Artist's twin] appears<upon gaining a [Great Artist] unit>",""],
 		"cities": ["Advent's base (Fuwamoco)","Born to be \"BAU\"DOL☆★","Fuwawa city","Mococœ city","Bau bau","Fluffy","Fuzzy","Game with wuffians","Foreigner edits","Mogojan","Extreme violence!","Fuwamoco Morning","Mococo sneezes","Siscon Fuwawa","nœh!","hœh?","whæt?"]
 	},
 	{

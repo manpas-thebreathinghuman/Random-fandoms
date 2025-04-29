@@ -145,7 +145,7 @@
 		"cost": 350,
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Plastics",
-		"requiredResource": "Deer Cracker",
+		"requiredResource": "Horses",
 		"upgradesTo": "Tank",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
@@ -164,6 +164,27 @@
 		"requiredResource": "Pon De Ring",
 		"uniques": ["[33]% chance to intercept air attacks"],
 		"attackSound": "missile"
+	},
+	{
+		"name": "Great General's twin",
+		"uniqueTo": "FUWAMOCO Ch.",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Great Artist's twin",
+		"uniqueTo": "FUWAMOCO Ch.",
+				"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	},
 	{
 		"name": "Great Creative",

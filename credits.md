@@ -30,11 +30,14 @@ Deer cracker logo is taken from a screenshot
 Deer Mascots logo is literally just the unciv deer icon
 Schizo Nation logo is my artistic rendition of an image provided by X2003 (Trad Boywife)
 Misdo and Pon De Ring logo is taken from a photo of a pon de ring
+Boat Goes Binted logo is taken from the minecraft boat (https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f4/Oak_Boat_JE4_BE2.png/revision/latest?cb=20191220101410)
+The Venice logo from denounce venice is stolen from ravaginir's bnw mod
 
 Credit to Ω Apocalypse Ω on discord for helping me adding shattered pixel dungeon
 Credit to Sorai Saki on discord for suggesting Abydos High School and Red Winter Federal Academy
 Credit to riceroll on discord for suggesting Atlantis
 Credit to X2003 (Trad Boywife) on discord for suggesting Deer Club
-The entirety of Unciv including code is by RatInfestation
+The entirety of Unciv including code and icons are by RatInfestation
+Cerdit to ReallyBasicName for suggesting Denounce Venice religion
 
 The rest of the icon I made myself using paint 👍

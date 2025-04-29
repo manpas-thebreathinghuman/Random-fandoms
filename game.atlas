@@ -382,3 +382,59 @@ UnitIcons/Great Creative
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Boat Goes Binted
+  rotate: false
+  xy: 2552, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/TWICE
+  rotate: false
+  xy: 760, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Hope
+  rotate: false
+  xy: 220, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Rock
+  rotate: false
+  xy: 328, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Paperclips
+  rotate: false
+  xy: 1084, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Deer
+  rotate: false
+  xy: 1825, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Bau Bau
+  rotate: false
+  xy: 1928, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Denounce Venice
+  rotate: false
+  xy: 2553, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
