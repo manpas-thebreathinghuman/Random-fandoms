@@ -208,6 +208,45 @@
 		"requiredTech": "Currency"
 	},
 	{
+		"name": "Starting Gate",
+        "uniqueTo": "Tracen Academy",
+        "replaces": "Stable",
+    	"cost": 1,
+    	"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+    	    "[+1 Production] from [Horses] tiles [in this city]"],
+	    "requiredTech": "Horseback Riding"
+    },
+	{
+		"name": "Beach Training",
+		"uniqueTo": "Tracen Academy",
+		"cost": 120,
+		"uniques": ["All newly-trained [Military] units [in this city] receive the [Friendhip Training] promotion", "Must be next to [Coast]"],
+		"requiredTech": "Guilds"
+	},
+	{
+		"name": "Cloner",
+		"uniqueTo": "Tolacen Academy",
+		"replaces": "Stable",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+20]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Tolacen 2",
+		"uniqueTo": "Tolacen Academy",
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Cloner] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization",
+			"Free [Ummusme Clone] appears<upon declaring friendship>"],
+		"requiredTech": "Engineering"
+	},
+	{
 		"name": "Mod Fork",
 		"uniqueTo": "Unciv",
 		"replaces": "Bank",

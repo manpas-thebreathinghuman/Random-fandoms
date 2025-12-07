@@ -187,6 +187,23 @@
 		"movement": 2
 	},
 	{
+		"name": "Ummusme Clone",
+		"uniqueTo": "Tolacen Academy",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 11,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"[+7] Strength<starting from the [Medieval era]>",
+			"[+13] Strength<starting from the [Industrial era]>",
+			"Unbuildable"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Great Creative",
 		"uniqueTo": "Unciv",
 		"replaces": "Great Prophet",

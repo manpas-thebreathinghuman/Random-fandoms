@@ -32,6 +32,11 @@ Schizo Nation logo is my artistic rendition of an image provided by X2003 (Trad 
 Misdo and Pon De Ring logo is taken from a photo of a pon de ring
 Boat Goes Binted logo is taken from the minecraft boat (https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f4/Oak_Boat_JE4_BE2.png/revision/latest?cb=20191220101410)
 The Venice logo from denounce venice is stolen from ravaginir's bnw mod
+Tracen Academy logo (and all that uses the same picture) is from the jp umamusume logo (https://static.wikia.nocookie.net/logopedia/images/4/4f/Uma_Musume_Pretty_Derby_JP_Logo.png/revision/latest?cb=20250717043740)
+Speed, Stamina, Power, Guts, Wit are all from screenshots
+Starting Gate and Beach training are also all in-game screenshots
+Tolacen Academy logo and Tolacen 2 logo are by Marlos Sun (https://x.com/MarlosSun)
+Tolacen (promotion) and Ummusme clone are by Symbol Rudol (https://x.com/TripledownCrown)
 
 Credit to Ω Apocalypse Ω on discord for helping me adding shattered pixel dungeon
 Credit to Sorai Saki on discord for suggesting Abydos High School and Red Winter Federal Academy

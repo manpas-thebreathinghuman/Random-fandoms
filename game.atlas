@@ -438,3 +438,101 @@ ReligionIcons/Denounce Venice
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Tracen Academy
+  rotate: false
+  xy: 2651, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Uma Musume
+  rotate: false
+  xy: 2651, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Speed
+  rotate: false
+  xy: 2655, 101
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Stamina  
+  rotate: false
+  xy: 2753, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Power
+  rotate: false
+  xy: 2760, 107
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Guts
+  rotate: false
+  xy: 2855, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wit
+  rotate: false
+  xy: 2861, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+BuildingIcons/Starting Gate
+  rotate: false
+  xy: 2940, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Beach Training
+  rotate: false
+  xy: 2965, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tolacen Academy
+  rotate: false
+  xy: 3058, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cloner
+  rotate: false
+  xy: 3068, 101
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tolacen
+  rotate: false
+  xy: 3174, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+BuildingIcons/Tolacen 2
+  rotate: false
+  xy: 3058, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ummusme Clone
+  rotate: false
+  xy: 3174, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

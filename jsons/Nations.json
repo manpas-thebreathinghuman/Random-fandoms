@@ -335,7 +335,7 @@
 		"outerColor": [29,100,152],
 		"innerColor": [255,255,255],
 		"uniqueName": "Nostalgia",
-		"uniques": ["[+15]% [Culture]<during the [Ancient era]>","[+15]% [Happiness]<during the [Ancient era]>", "[+15]% [Culture]<during the [Classical era]>","[+15]% [Happiness]<during the [Classical era]>","[+10]% [Culture] <during the [Medieval era]>","[+10]% [Happiness] <during the [Medieval era]>","[+10]% [Culture]<during the [Renaissance era]>","[+10]% [Happiness]<during the [Renaissance era]>","[+5]%[Culture]<during the [Industrial era]>","[+5]%[Happiness]<during the [Industrial era]>","[+5]% [Culture]<during the [Modern era]>","[+5]% [Happiness]<during the [Modern era]>"],
+		"uniques": ["[115]% [Culture]<during the [Ancient era]>","[115]% [Happiness]<during the [Ancient era]>", "[115]% [Culture]<during the [Classical era]>","[115]% [Happiness]<during the [Classical era]>","[110]% [Culture] <during the [Medieval era]>","[110]% [Happiness] <during the [Medieval era]>","[110]% [Culture]<during the [Renaissance era]>","[110]% [Happiness]<during the [Renaissance era]>","[105]%[Culture]<during the [Industrial era]>","[105]%[Happiness]<during the [Industrial era]>","[105]% [Culture]<during the [Modern era]>","[105]% [Happiness]<during the [Modern era]>"],
 		"cities": ["Reversi","Soltaire","Minesweeper","Hearts","Freecell","Hover!","3D Pinball for Windows - Space Cadet","Internet Backgammon","Internet Checkers","Internet Hearts","Internet Reversi","Internet Spades","Spider Solitaire","Inkball","Purble Place","Mahjong Titans","Chess Titans","Tinker","Hold 'Em","Solitaire Collection","Surf"]
 	},
 	{
@@ -494,6 +494,78 @@
 		"uniques": ["Free [Great General's twin] appears<upon gaining a [Great General] unit>","Free [Great Artist's twin] appears<upon gaining a [Great Artist] unit>",""],
 		"cities": ["Advent's base (Fuwamoco)","Born to be \"BAU\"DOL☆★","Fuwawa city","Mococœ city","Bau bau","Fluffy","Fuzzy","Game with wuffians","Foreigner edits","Mogojan","Extreme violence!","Fuwamoco Morning","Mococo sneezes","Siscon Fuwawa","nœh!","hœh?","whæt?"]
 	},
+	{
+        "name": "Tracen Academy",
+        "leaderName": "Director Yayoi Akikawa",
+        "adjective": ["Uma Musume"],
+        "preferredVictoryType": "Diplomatic",
+
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+
+        "neutralHello": "How are you doing?",
+        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
+        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+        "hateHello": "What do you want now?",
+        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+        "hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+        "afterPeace": "",
+        "tradeRequest": "We bestow you the honor of this trade offer.",
+
+        "outerColor": [242,83,134],
+        "innerColor": [251,234,24],
+        "uniqueName": "Eclipse first, the rest nowhere",
+        "uniques": ["[Mounted] units gain the [Uma Musume] promotion"],
+		"uniqueText":
+		"[Mounted units gain the [Uma Musume] promotion], which gives access to
+		[Speed] promotion: [1] Movement,
+		[Stamina] promotion: [This Unit] heals [5] HP upon turn end
+		[Power] promotion: [+15]% Strength
+		[Guts] promotion: [+33]% Strength when [Wounded]
+		[Wit] promotion: [+33]% XP gained from combat",
+        "cities": ["Starting gate","Ritto Dorm","Miho Dorm", "Training track", "Trainers' Office", "Gym", "Cafetaria", "Infirmary", "Three Goddesses Statue", "Shrine", "Market", "Beach", "Hot spring"]
+    },
+	{
+        "name": "Tolacen Academy",
+        "leaderName": "Symbol Rudol",
+        "adjective": ["Uma Musume clones"],
+        "preferredVictoryType": "Diplomatic",
+
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+
+        "neutralHello": "How are you doing?",
+        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
+        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+        "hateHello": "What do you want now?",
+        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+        "hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+        "afterPeace": "",
+        "tradeRequest": "We bestow you the honor of this trade offer.",
+
+        "outerColor": [32,218,255],
+        "innerColor": [123,122,125],
+        "uniqueName": "Protecting the cute and frail creatures",
+        "uniques": ["Military Units gifted from City-States start with [20] XP","Gifts of Gold to City-States generate [50]% more Influence","[Mounted] units gain the [Tolacen] promotion","[+100]% [Horses] resource production"],
+		"uniqueText": 
+		"Military Units gifted from City-States start with [20] XP,
+		Gifts of Gold to City-States generate [50]% more Influence,
+		[Mounted] units gain the [Tolacen] promotion (-1 movement, -10% Strength),
+		[+100]% [Horses] resource production",
+        "cities": ["Statring gat","Drom", "Traing trak", "Traners' Ofise", "Jym", "Caftarya", "Infirmy", "Three Goddessesses Stat", "Shrine", "Bech", "Hot sping"]
+    },
 	{
 		"name": "Unciv",
 		"leaderName": "Yairm",

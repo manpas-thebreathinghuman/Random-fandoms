@@ -14,5 +14,42 @@
     {
         "name": "Blackmen",
         "uniques": ["[50]% to Flank Attack bonuses","[+10]% Strength"]
+    },
+    {
+        "name": "Uma Musume",
+        "uniques": []
+    },
+    {
+        "name": "Friendship Training",
+        "uniques": ["[50]% XP gained from combat"]
+    },
+    {
+        "name": "Speed",
+        "prerequisites": ["Uma Musume"],
+        "uniques": ["[1] Movement"]
+    },
+    {
+        "name": "Stamina",
+        "prerequisites": ["Uma Musume"],
+        "uniques": ["[This Unit] heals [5] HP<upon turn end>"]
+    },
+    {
+        "name": "Power",
+        "prerequisites": ["Uma Musume"],
+        "uniques": ["[+15]% Strength"]
+    },
+    {
+        "name": "Guts",
+        "prerequisites": ["Uma Musume"],
+        "uniques": ["[+33]% Strength<when [Wounded]>"]
+    },
+    {
+        "name": "Wit",
+        "prerequisites": ["Uma Musume"],
+        "uniques": ["[+33]% XP gained from combat"]
+    },
+    {
+        "name": "Tolacen",
+        "uniques": ["[-1] Movement","[-10]% Strength"]
     }
 ]
